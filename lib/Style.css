@@ -628,6 +628,10 @@ ul {
         overflow-y: hidden;
         overflow-y: scroll;
     }
+
+    footer{
+        padding-left:130px;
+    }
    
 }
 
